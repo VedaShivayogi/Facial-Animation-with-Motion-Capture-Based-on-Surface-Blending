@@ -54,9 +54,4 @@ Surface Blending works by combining multiple facial expression surfaces (such as
 - Surface Blending Techniques – SIGGRAPH  
 - Blender Documentation  
 
-## 👤 Author
-**Nana**  
-M.Tech / Engineering Project  
 
-## 📜 License
-This project is for educational purposes.
